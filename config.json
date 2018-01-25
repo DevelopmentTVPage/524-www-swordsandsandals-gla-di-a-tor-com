@@ -1,0 +1,15 @@
+{
+    "title": "Mobile VS Desktop",
+    "baseURL": "https:\/\/www.swordsandsandals-gla-di-a-tor.com",
+    "languageCode": "en-us",
+    "theme": "tvpage",
+    "disablePathToLower": true,
+    "enableRobotsTXT": true,
+    "galleryChannelIds": "",
+    "params": {
+        "loginId": "1759094",
+        "subfolder": "",
+        "firstpartycookies": true,
+        "cookiedomain": "swordsandsandals-gla-di-a-tor.com"
+    }
+}
