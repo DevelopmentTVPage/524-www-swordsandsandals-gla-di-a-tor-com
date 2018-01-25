@@ -30,6 +30,15 @@
             "widget_title_margin_left": "5",
             "widget_title_background_color": "rgba(255, 255, 255, 1)",
             "widget_title_display": "block"
+        },
+        ".carousel-arrow": {
+            "carousel_arrow_background_color": "rgba(255, 255, 255, 1)",
+            "carousel_arrow_color": "rgba(129, 156, 227, 1)",
+            "carousel_arrow_hover_background_color": "rgba(63, 255, 0, 1)",
+            "carousel_arrow_display": "block"
+        },
+        ".slick-dots li button": {
+            "carousel_dot_height": 0
         }
     }
 }
