@@ -1,7 +1,7 @@
 {
     "name": "gbgh",
     "template": "carousel",
-    "title": "Mobile-Testing",
+    "title": "Radiation Hazard",
     "projectId": "524",
     "channelId": "135309255",
     "css": {
