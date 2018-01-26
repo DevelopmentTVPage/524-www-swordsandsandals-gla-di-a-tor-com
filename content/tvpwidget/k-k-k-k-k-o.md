@@ -1,9 +1,9 @@
 {
-    "type": "carousel",
-    "title": "k-k-k-k-k-o",
     "name": "k-k-k-k-k-o",
+    "template": "carousel",
+    "title": "k-k-k-k-k-o",
+    "projectId": "524",
     "channelId": "135309255",
-    "layout": "bootstrap",
     "css": {
         ".widget-body": {
             "body_font_family": "Open Sans",
@@ -39,7 +39,7 @@
         },
         ".slick-dots li button": {
             "carousel_dot_height": "90",
-            "carousel_dot_width": "9",
+            "carousel_dot_width": "10",
             "carousel_dot_background_color": "rgba(255, 255, 255, 1)",
             "carousel_dot_border_width": "3",
             "carousel_dot_border_radius": "24%"
@@ -64,5 +64,9 @@
             "video_item_font_weight": "bold",
             "video_item_text_align": "center"
         }
-    }
+    },
+    "layout": "bootstrap",
+    "channelTitle": "Channel 2",
+    "channelType": "Standard",
+    "type": "carousel"
 }
