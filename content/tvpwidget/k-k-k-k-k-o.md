@@ -10,7 +10,7 @@
             "widget_background_color": "rgba(255, 255, 255, 1)",
             "widget_padding_top": "10",
             "widget_padding_left": "10",
-            "widget_border_width": "0",
+            "widget_border_width": "6",
             "widget_border_color": "rgba(0, 0, 0, 1)",
             "widget_border_style": "solid"
         },
