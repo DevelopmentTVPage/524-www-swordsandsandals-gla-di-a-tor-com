@@ -1,9 +1,9 @@
 {
     "name": "gbgh",
     "template": "carousel",
-    "title": "Mobile",
+    "title": "Radiation Hazard",
     "projectId": "524",
-    "channelId": "135309255",
+    "channelId": "135309253",
     "css": {
         ".widget-body": {
             "body_font_family": "Open Sans",
@@ -16,7 +16,7 @@
         },
         ".widget-title": {
             "widget_title_display": "block",
-            "widget_title_html": "LOLZ",
+            "widget_title_html": "RADIOACTIVE HAZARD",
             "widget_title_font_size": "20",
             "widget_title_font_weight": "bold",
             "widget_title_color": "rgba(233, 255, 0, 1)",
@@ -134,7 +134,7 @@
         ".video-item": {
             "video_item_padding_bottom": "10",
             "video_item_hover_color": "rgba(255, 0, 0, 1)",
-            "video_item_border_width": "8",
+            "video_item_border_width": "12",
             "video_item_border_color": "rgba(255, 224, 0, 1)",
             "video_item_border_style": "solid",
             "video_item_border_radius": "7%",
@@ -197,5 +197,13 @@
     "layout": "bootstrap",
     "channelTitle": "Channel 2",
     "channelType": "Standard",
-    "type": "carousel"
+    "type": "carousel",
+    "advertising": {
+        "enabled": false,
+        "adServerUrl": null,
+        "adTimeout": 2000,
+        "maxAds": 100,
+        "adInterval": 0
+    },
+    "preload": false
 }
