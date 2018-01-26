@@ -1,7 +1,7 @@
 {
     "name": "gbgh",
     "template": "carousel",
-    "title": "Widget For Mobile Testing",
+    "title": "Mobile",
     "projectId": "524",
     "channelId": "135309255",
     "css": {
@@ -134,7 +134,7 @@
         ".video-item": {
             "video_item_padding_bottom": "10",
             "video_item_hover_color": "rgba(255, 0, 0, 1)",
-            "video_item_border_width": "8",
+            "video_item_border_width": "12",
             "video_item_border_color": "rgba(255, 224, 0, 1)",
             "video_item_border_style": "solid",
             "video_item_border_radius": "7%",
@@ -197,13 +197,5 @@
     "layout": "bootstrap",
     "channelTitle": "Channel 2",
     "channelType": "Standard",
-    "type": "carousel",
-    "advertising": {
-        "enabled": false,
-        "adServerUrl": null,
-        "adTimeout": 2000,
-        "maxAds": 100,
-        "adInterval": 0
-    },
-    "preload": false
+    "type": "carousel"
 }
