@@ -12,5 +12,6 @@
         "adInterval": 0
     },
     "preload": false,
-    "autoplay": true
+    "autoplay": true,
+    "autonext": false
 }
