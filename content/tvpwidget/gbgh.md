@@ -115,8 +115,8 @@
             "product_item_padding_top": "5"
         },
         ".product-item-image-overlay": {
-            "product_item_image_overlay_opacity": "0.5",
-            "product_item_image_overlay_background_color": "rgba(255, 0, 0, 1)"
+            "product_item_image_overlay_opacity": "0.7",
+            "product_item_image_overlay_background_color": "rgba(9, 255, 0, 1)"
         },
         ".product-pop-over": {
             "product_pop_over_background_color": "rgba(255, 0, 0, 1)"
@@ -126,10 +126,48 @@
         },
         ".product-pop-over-cta": {
             "product_pop_over_cta_background_color": "rgba(254, 255, 0, 1)",
-            "product_pop_over_cta_width": "6"
+            "product_pop_over_cta_width": "6",
+            "product_pop_over_cta_color": "rgba(255, 0, 0, 1)",
+            "product_pop_over_cta_font_size": "10"
         },
         ".video-item": {
             "video_item_padding_bottom": "100"
+        },
+        ".product-pop-over-price": {
+            "product_pop_over_price_border_style": "solid",
+            "product_pop_over_price_border_color": "rgba(0, 0, 0, 1)",
+            "product_pop_over_price_background_color": "rgba(255, 245, 0, 1)",
+            "product_pop_over_price_border_width": "5",
+            "product_pop_over_price_padding_top": "10",
+            "product_pop_over_price_padding_right": "10",
+            "product_pop_over_price_padding_bottom": "10",
+            "product_pop_over_price_padding_left": "10",
+            "product_pop_over_price_margin_top": "10",
+            "product_pop_over_price_margin_right": "10",
+            "product_pop_over_price_margin_bottom": "10",
+            "product_pop_over_price_margin_left": "10",
+            "product_pop_over_price_font_size": "10",
+            "product_pop_over_price_text_align": "right",
+            "product_pop_over_price_color": "rgba(255, 0, 0, 1)",
+            "product_pop_over_price_font_weight": "bold"
+        },
+        ".product-pop-over-title": {
+            "product_pop_over_title_border_width": "5",
+            "product_pop_over_title_border_color": "rgba(0, 0, 0, 1)",
+            "product_pop_over_title_border_style": "solid",
+            "product_pop_over_title_background_color": "rgba(233, 255, 0, 1)",
+            "product_pop_over_title_color": "rgba(255, 0, 0, 1)",
+            "product_pop_over_title_text_align": "right",
+            "product_pop_over_title_font_weight": "bold",
+            "product_pop_over_title_font_size": "10",
+            "product_pop_over_title_padding_top": "10",
+            "product_pop_over_title_padding_right": "10",
+            "product_pop_over_title_padding_bottom": "10",
+            "product_pop_over_title_padding_left": "10",
+            "product_pop_over_title_margin_top": "10",
+            "product_pop_over_title_margin": "10",
+            "product_pop_over_title_margin_bottom": "10",
+            "product_pop_over_title_margin_left": "10"
         }
     },
     "layout": "bootstrap",
