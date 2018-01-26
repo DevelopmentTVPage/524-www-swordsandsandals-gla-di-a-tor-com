@@ -188,10 +188,10 @@
             "product_pop_over_title_margin_left": "10"
         },
         ".video-item-image-overlay": {
-            "video_item_image_overlay_background_color": "rgba(10, 255, 21, 1)",
+            "video_item_image_overlay_background_color": "rgba(63, 255, 0, 1)",
             "video_item_image_overlay_opacity": "0.5",
-            "video_item_image_overlay_hover_background_color": "rgba(244, 255, 0, 1)",
-            "video_item_image_hover_overlay_opacity": "0.4"
+            "video_item_image_overlay_hover_background_color": "rgba(237, 255, 0, 1)",
+            "video_item_image_hover_overlay_opacity": "0.5"
         }
     },
     "layout": "bootstrap",
