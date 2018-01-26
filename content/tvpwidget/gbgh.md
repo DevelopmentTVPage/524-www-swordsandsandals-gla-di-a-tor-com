@@ -3,7 +3,7 @@
     "template": "carousel",
     "title": "Radiation Hazard",
     "projectId": "524",
-    "channelId": "135309255",
+    "channelId": "135309253",
     "css": {
         ".widget-body": {
             "body_font_family": "Open Sans",
