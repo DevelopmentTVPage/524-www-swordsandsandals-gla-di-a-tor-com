@@ -89,19 +89,48 @@
             "widget_modal_close_opacity": "1",
             "widget_modal_hover_close_color": "rgba(0, 0, 0, 1)",
             "widget_modal_hover_close_opacity": "1"
+        },
+        ".tvplayer-playbutton": {
+            "play_button_background_color": "rgba(254, 255, 0, 1)",
+            "play_button_opacity": "1",
+            "play_button_border_style": "solid",
+            "play_button_border_width": "8",
+            "play_button_border_color": "rgba(0, 0, 0, 1)",
+            "play_button_border_radius": "50%",
+            "play_button_icon_color": "rgba(0, 0, 0, 1)",
+            "play_button_hover_background_color": "rgba(0, 0, 0, 1)",
+            "play_button_hover_border_color": "rgba(254, 255, 0, 1)",
+            "play_button_hover_icon_color": "rgba(255, 234, 0, 1)"
+        },
+        ".product-item": {
+            "product_item_border_width": "4",
+            "product_item_border_color": "rgba(212, 255, 0, 1)",
+            "product_item_padding_left": "5",
+            "product_item_margin_top": "5",
+            "product_item_margin_right": "5",
+            "product_item_margin_bottom": "5",
+            "product_item_margin_left": "5",
+            "product_item_padding_bottom": "5",
+            "product_item_padding_right": "5",
+            "product_item_padding_top": "5"
+        },
+        ".product-item-image-overlay": {
+            "product_item_image_overlay_opacity": "0.5",
+            "product_item_image_overlay_background_color": "rgba(255, 0, 0, 1)"
+        },
+        ".product-pop-over": {
+            "product_pop_over_background_color": "rgba(255, 0, 0, 1)"
+        },
+        ".pop-over-pointer": {
+            "product_pop_over_pointer_background_color": "rgba(255, 0, 0, 1)"
+        },
+        ".product-pop-over-cta": {
+            "product_pop_over_cta_background_color": "rgba(254, 255, 0, 1)",
+            "product_pop_over_cta_width": "6"
         }
     },
     "layout": "bootstrap",
     "channelTitle": "Channel 2",
     "channelType": "Standard",
-    "type": "carousel",
-    "advertising": {
-        "enabled": false,
-        "adServerUrl": null,
-        "adTimeout": 2000,
-        "maxAds": 100,
-        "adInterval": 0
-    },
-    "preload": false,
-    "autoplay": false
+    "type": "carousel"
 }
