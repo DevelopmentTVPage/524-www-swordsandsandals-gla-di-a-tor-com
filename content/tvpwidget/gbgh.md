@@ -29,7 +29,7 @@
             "widget_title_margin_right": "20",
             "widget_title_margin_bottom": "20",
             "widget_title_margin_left": "20",
-            "widget_title_background_color": "rgba(0, 0, 0, 1)"
+            "widget_title_background_color": "none"
         },
         ".carousel-arrow": {
             "carousel_arrow_display": "block",
