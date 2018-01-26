@@ -130,6 +130,21 @@
         },
         ".video-item": {
             "video_item_padding_bottom": "100"
+        },
+        ".product-pop-over-price": {
+            "product_pop_over_price_border_style": "solid",
+            "product_pop_over_price_border_color": "rgba(0, 0, 0, 1)",
+            "product_pop_over_price_background_color": "rgba(255, 245, 0, 1)",
+            "product_pop_over_price_border_width": "5",
+            "product_pop_over_price_padding_top": "10",
+            "product_pop_over_price_padding_right": "10",
+            "product_pop_over_price_padding_bottom": "10",
+            "product_pop_over_price_padding_left": "10",
+            "product_pop_over_price_margin_top": "10",
+            "product_pop_over_price_margin_right": "10",
+            "product_pop_over_price_margin_bottom": "10",
+            "product_pop_over_price_margin_left": "10",
+            "product_pop_over_price_font_size": "10"
         }
     },
     "layout": "bootstrap",
