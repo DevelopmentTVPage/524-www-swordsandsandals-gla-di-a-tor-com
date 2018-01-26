@@ -146,7 +146,10 @@
             "product_pop_over_price_margin_right": "10",
             "product_pop_over_price_margin_bottom": "10",
             "product_pop_over_price_margin_left": "10",
-            "product_pop_over_price_font_size": "10"
+            "product_pop_over_price_font_size": "10",
+            "product_pop_over_price_text_align": "right",
+            "product_pop_over_price_color": "rgba(255, 0, 0, 1)",
+            "product_pop_over_price_font_weight": "bold"
         }
     },
     "layout": "bootstrap",
