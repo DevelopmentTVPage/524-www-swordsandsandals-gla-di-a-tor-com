@@ -2,7 +2,7 @@
     "type": "carousel",
     "title": "Mobile",
     "name": "gbgh",
-    "channelId": "135309253",
+    "channelId": "135309255",
     "layout": "bootstrap",
     "advertising": {
         "enabled": false,
