@@ -79,7 +79,16 @@
             "widget_modal_header_padding_left": "5"
         },
         ".widget-modal-title": {
-            "widget_modal_title_font_size": "10"
+            "widget_modal_title_font_size": "10",
+            "widget_modal_font_weight": "bold",
+            "widget_modal_title_color": "rgba(244, 255, 0, 1)"
+        },
+        ".widget-modal-close": {
+            "widget_modal_close_size": "20",
+            "widget_modal_close_color": "rgba(254, 255, 0, 1)",
+            "widget_modal_close_opacity": "1",
+            "widget_modal_hover_close_color": "rgba(0, 0, 0, 1)",
+            "widget_modal_hover_close_opacity": "1"
         }
     },
     "layout": "bootstrap",
