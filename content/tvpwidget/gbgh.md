@@ -128,7 +128,8 @@
             "product_pop_over_cta_background_color": "rgba(254, 255, 0, 1)",
             "product_pop_over_cta_width": "6",
             "product_pop_over_cta_color": "rgba(255, 0, 0, 1)",
-            "product_pop_over_cta_font_size": "10"
+            "product_pop_over_cta_font_size": "10",
+            "product_pop_over_cta_style": "dotted"
         },
         ".video-item": {
             "video_item_padding_bottom": "10",
