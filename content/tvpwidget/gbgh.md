@@ -115,8 +115,8 @@
             "product_item_padding_top": "5"
         },
         ".product-item-image-overlay": {
-            "product_item_image_overlay_opacity": "0.5",
-            "product_item_image_overlay_background_color": "rgba(255, 0, 0, 1)"
+            "product_item_image_overlay_opacity": "0.7",
+            "product_item_image_overlay_background_color": "rgba(9, 255, 0, 1)"
         },
         ".product-pop-over": {
             "product_pop_over_background_color": "rgba(255, 0, 0, 1)"
