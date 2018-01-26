@@ -63,6 +63,16 @@
             "video_item_font_size": "10px",
             "video_item_font_weight": "bold",
             "video_item_text_align": "center"
+        },
+        ".widget-modal-header": {
+            "widget_modal_header_padding_top": "15",
+            "widget_modal_header_padding_right": "15"
+        },
+        ".widget-modal-body": {
+            "widget_modal_body_padding_right": "15"
+        },
+        ".tvplayer-playbutton": {
+            "play_button_border_radius": "0%"
         }
     },
     "layout": "bootstrap",
