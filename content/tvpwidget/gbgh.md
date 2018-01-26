@@ -11,5 +11,6 @@
         "maxAds": 100,
         "adInterval": 0
     },
-    "preload": false
+    "preload": false,
+    "autoplay": true
 }
