@@ -15,7 +15,7 @@
             "widget_border_style": "solid"
         },
         ".widget-title": {
-            "widget_title_font_size": "20px",
+            "widget_title_font_size": "500",
             "widget_title_font_weight": "bold",
             "widget_title_html": "Title",
             "widget_title_color": "rgba(255, 0, 0, 1)",
