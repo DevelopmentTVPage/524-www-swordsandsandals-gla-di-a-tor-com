@@ -29,7 +29,7 @@
             "widget_title_margin_right": "20",
             "widget_title_margin_bottom": "20",
             "widget_title_margin_left": "20",
-            "widget_title_background_color": "rgba(0, 0, 0, 1)"
+            "widget_title_background_color": "none"
         },
         ".carousel-arrow": {
             "carousel_arrow_display": "block",
@@ -134,10 +134,10 @@
         ".video-item": {
             "video_item_padding_bottom": "10",
             "video_item_hover_color": "rgba(255, 0, 0, 1)",
-            "video_item_border_width": "5",
+            "video_item_border_width": "8",
             "video_item_border_color": "rgba(255, 224, 0, 1)",
             "video_item_border_style": "solid",
-            "video_item_border_radius": "31%",
+            "video_item_border_radius": "7%",
             "video_item_background_color": "rgba(0, 0, 0, 1)",
             "video_item_color": "rgba(254, 255, 0, 1)",
             "video_item_font_size": "10",
