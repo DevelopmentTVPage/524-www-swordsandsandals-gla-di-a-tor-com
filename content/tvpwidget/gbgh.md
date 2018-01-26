@@ -1,7 +1,7 @@
 {
     "name": "gbgh",
     "template": "carousel",
-    "title": "Mobile",
+    "title": "Widget For Mobile Testing",
     "projectId": "524",
     "channelId": "135309255",
     "css": {
@@ -197,5 +197,13 @@
     "layout": "bootstrap",
     "channelTitle": "Channel 2",
     "channelType": "Standard",
-    "type": "carousel"
+    "type": "carousel",
+    "advertising": {
+        "enabled": false,
+        "adServerUrl": null,
+        "adTimeout": 2000,
+        "maxAds": 100,
+        "adInterval": 0
+    },
+    "preload": false
 }
