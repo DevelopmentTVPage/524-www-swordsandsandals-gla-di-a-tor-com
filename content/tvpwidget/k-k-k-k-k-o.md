@@ -10,12 +10,12 @@
             "widget_background_color": "rgba(255, 255, 255, 1)",
             "widget_padding_top": "10",
             "widget_padding_left": "10",
-            "widget_border_width": "0",
+            "widget_border_width": "6",
             "widget_border_color": "rgba(0, 0, 0, 1)",
             "widget_border_style": "solid"
         },
         ".widget-title": {
-            "widget_title_font_size": "20px",
+            "widget_title_font_size": "20",
             "widget_title_font_weight": "bold",
             "widget_title_html": "Title",
             "widget_title_color": "rgba(255, 0, 0, 1)",
@@ -38,7 +38,7 @@
             "carousel_arrow_display": "block"
         },
         ".slick-dots li button": {
-            "carousel_dot_height": "90",
+            "carousel_dot_height": "10",
             "carousel_dot_width": "10",
             "carousel_dot_background_color": "rgba(255, 255, 255, 1)",
             "carousel_dot_border_width": "20",
