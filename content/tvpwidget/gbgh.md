@@ -185,6 +185,10 @@
             "product_pop_over_title_margin": "10",
             "product_pop_over_title_margin_bottom": "10",
             "product_pop_over_title_margin_left": "10"
+        },
+        ".video-item-image-overlay": {
+            "video_item_image_overlay_background_color": "rgba(255, 224, 0, 1)",
+            "video_item_image_overlay_opacity": "1"
         }
     },
     "layout": "bootstrap",
