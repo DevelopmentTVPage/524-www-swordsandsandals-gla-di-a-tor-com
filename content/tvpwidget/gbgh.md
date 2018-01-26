@@ -77,6 +77,9 @@
             "widget_modal_header_padding_right": "5",
             "widget_modal_header_padding_bottom": "5",
             "widget_modal_header_padding_left": "5"
+        },
+        ".widget-modal-title": {
+            "widget_modal_title_font_size": "10"
         }
     },
     "layout": "bootstrap",
