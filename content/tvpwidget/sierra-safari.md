@@ -13,7 +13,7 @@
         },
         ".widget-title": {
             "widget_title_display": "none",
-            "widget_title_html": "title",
+            "widget_title_html": "Save",
             "widget_title_font_size": "20",
             "widget_title_font_weight": "bold",
             "widget_title_color": "rgba(0, 128, 255, 1)",
@@ -34,7 +34,7 @@
             "carousel_dot_border_style": "outset",
             "carousel_dot_border_width": "6",
             "carousel_dot_hover_border_color": "rgba(255, 0, 0, 1)",
-            "carousel_dot_display": "block"
+            "carousel_dot_display": "none"
         }
     },
     "layout": "bootstrap",
