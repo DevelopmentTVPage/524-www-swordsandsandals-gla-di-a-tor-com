@@ -35,6 +35,9 @@
             "carousel_dot_border_width": "6",
             "carousel_dot_hover_border_color": "rgba(255, 0, 0, 1)",
             "carousel_dot_display": "none"
+        },
+        ".video-item": {
+            "video_item_display_amount": "2"
         }
     },
     "layout": "bootstrap",
