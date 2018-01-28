@@ -46,6 +46,12 @@
             "video_item_font_weight": "bold",
             "video_item_text_align": "center",
             "video_item_hover_color": "rgba(0, 128, 255, 1)"
+        },
+        ".video-item-image-overlay": {
+            "video_item_image_overlay_background_color": "rgba(255, 0, 0, 1)",
+            "video_item_image_overlay_opacity": "0.4",
+            "video_item_image_overlay_hover_background_color": "rgba(9, 255, 0, 1)",
+            "video_item_image_hover_overlay_opacity": "0.3"
         }
     },
     "layout": "bootstrap",
