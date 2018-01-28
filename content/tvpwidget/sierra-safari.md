@@ -80,6 +80,13 @@
             "widget_modal_title_font_size": "20",
             "widget_modal_title_color": "rgba(0, 128, 255, 1)",
             "widget_modal_font_weight": "bold"
+        },
+        ".widget-modal-close": {
+            "widget_modal_close_size": "30",
+            "widget_modal_close_color": "rgba(255, 0, 0, 1)",
+            "widget_modal_close_opacity": "1",
+            "widget_modal_hover_close_color": "rgba(0, 255, 23, 1)",
+            "widget_modal_hover_close_opacity": "1"
         }
     },
     "layout": "bootstrap",
