@@ -33,7 +33,8 @@
             "carousel_dot_background_color": "rgba(255, 0, 0, 1)",
             "carousel_dot_border_style": "outset",
             "carousel_dot_border_width": "6",
-            "carousel_dot_hover_border_color": "rgba(255, 0, 0, 1)"
+            "carousel_dot_hover_border_color": "rgba(255, 0, 0, 1)",
+            "carousel_dot_display": "none"
         }
     },
     "layout": "bootstrap",
