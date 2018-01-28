@@ -75,6 +75,11 @@
             "widget_modal_header_border_color": "rgba(86, 19, 19, 1)",
             "widget_modal_header_border_width": "10",
             "widget_modal_header_background_color": "rgba(188, 105, 105, 1)"
+        },
+        ".widget-modal-title": {
+            "widget_modal_title_font_size": "20",
+            "widget_modal_title_color": "rgba(0, 128, 255, 1)",
+            "widget_modal_font_weight": "bold"
         }
     },
     "layout": "bootstrap",
