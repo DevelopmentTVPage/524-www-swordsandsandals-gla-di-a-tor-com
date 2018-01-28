@@ -87,6 +87,19 @@
             "widget_modal_close_opacity": "1",
             "widget_modal_hover_close_color": "rgba(0, 255, 23, 1)",
             "widget_modal_hover_close_opacity": "1"
+        },
+        ".tvplayer-playbutton": {
+            "play_button_background_color": "rgba(255, 0, 0, 1)",
+            "play_button_opacity": "1",
+            "play_button_border_style": "groove",
+            "play_button_border_width": "7",
+            "play_button_border_color": "rgba(0, 40, 255, 1)",
+            "play_button_border_radius": "26%",
+            "play_button_icon_color": "rgba(31, 255, 0, 1)",
+            "play_button_hover_opacity": "0.4",
+            "play_button_hover_background_color": "rgba(255, 255, 255, 1)",
+            "play_button_hover_border_color": "rgba(255, 0, 0, 1)",
+            "play_button_hover_icon_color": "rgba(0, 18, 255, 1)"
         }
     },
     "layout": "bootstrap",
