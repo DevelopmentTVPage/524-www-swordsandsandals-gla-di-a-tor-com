@@ -52,6 +52,17 @@
             "video_item_image_overlay_opacity": "0.4",
             "video_item_image_overlay_hover_background_color": "rgba(9, 255, 0, 1)",
             "video_item_image_hover_overlay_opacity": "0.3"
+        },
+        ".video-item-image-icon": {
+            "video_item_image_icon_background_color": "rgba(254, 255, 0, 1)",
+            "video_item_image_icon_border_style": "double",
+            "video_item_image_icon_border_color": "rgba(255, 0, 0, 1)",
+            "video_item_image_icon_border_width": "9",
+            "video_item_image_icon_border_radius": "33%",
+            "video_item_image_icon_color": "rgba(255, 0, 0, 1)",
+            "video_item_image_icon_hover_background_color": "rgba(0, 8, 255, 1)",
+            "video_item_image_icon_hover_border_color": "rgba(9, 255, 0, 1)",
+            "video_item_image_icon_hover_color": "rgba(0, 255, 1, 1)"
         }
     },
     "layout": "bootstrap",
