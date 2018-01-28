@@ -41,7 +41,11 @@
             "video_item_border_width": "7",
             "video_item_border_style": "dotted",
             "video_item_border_color": "rgba(41, 0, 255, 1)",
-            "video_item_border_radius": "25%"
+            "video_item_border_radius": "25%",
+            "video_item_font_size": "30",
+            "video_item_font_weight": "bold",
+            "video_item_text_align": "center",
+            "video_item_hover_color": "rgba(0, 128, 255, 1)"
         }
     },
     "layout": "bootstrap",
