@@ -37,7 +37,7 @@
             "carousel_dot_display": "none"
         },
         ".video-item": {
-            "video_item_display_amount": "2"
+            "video_item_display_amount": "3"
         }
     },
     "layout": "bootstrap",
