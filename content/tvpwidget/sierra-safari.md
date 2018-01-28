@@ -37,7 +37,11 @@
             "carousel_dot_display": "none"
         },
         ".video-item": {
-            "video_item_display_amount": "3"
+            "video_item_display_amount": "3",
+            "video_item_border_width": "7",
+            "video_item_border_style": "dotted",
+            "video_item_border_color": "rgba(41, 0, 255, 1)",
+            "video_item_border_radius": "25%"
         }
     },
     "layout": "bootstrap",
