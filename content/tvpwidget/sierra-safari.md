@@ -63,6 +63,12 @@
             "video_item_image_icon_hover_background_color": "rgba(0, 8, 255, 1)",
             "video_item_image_icon_hover_border_color": "rgba(9, 255, 0, 1)",
             "video_item_image_icon_hover_color": "rgba(0, 255, 1, 1)"
+        },
+        ".widget-modal-body": {
+            "widget_modal_body_background_color": "rgba(255, 0, 0, 1)",
+            "widget_modal_body_border_style": "dotted",
+            "widget_modal_body_border_color": "rgba(170, 23, 23, 1)",
+            "widget_modal_body_border_width": "7"
         }
     },
     "layout": "bootstrap",
