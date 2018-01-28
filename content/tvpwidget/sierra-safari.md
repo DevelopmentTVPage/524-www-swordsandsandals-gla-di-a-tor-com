@@ -26,6 +26,14 @@
             "carousel_arrow_color": "rgba(24, 0, 255, 1)",
             "carousel_arrow_hover_background_color": "rgba(0, 29, 255, 1)",
             "carousel_arrow_hover_color": "rgba(255, 0, 0, 1)"
+        },
+        ".slick-dots li button": {
+            "carousel_dot_height": "20",
+            "carousel_dot_width": "20",
+            "carousel_dot_background_color": "rgba(255, 0, 0, 1)",
+            "carousel_dot_border_style": "outset",
+            "carousel_dot_border_width": "6",
+            "carousel_dot_hover_border_color": "rgba(255, 0, 0, 1)"
         }
     },
     "layout": "bootstrap",
