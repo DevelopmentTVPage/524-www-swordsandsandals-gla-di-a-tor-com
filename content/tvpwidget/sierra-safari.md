@@ -69,6 +69,12 @@
             "widget_modal_body_border_style": "dotted",
             "widget_modal_body_border_color": "rgba(170, 23, 23, 1)",
             "widget_modal_body_border_width": "7"
+        },
+        ".widget-modal-header": {
+            "widget_modal_header_border_style": "dotted",
+            "widget_modal_header_border_color": "rgba(86, 19, 19, 1)",
+            "widget_modal_header_border_width": "10",
+            "widget_modal_header_background_color": "rgba(188, 105, 105, 1)"
         }
     },
     "layout": "bootstrap",
