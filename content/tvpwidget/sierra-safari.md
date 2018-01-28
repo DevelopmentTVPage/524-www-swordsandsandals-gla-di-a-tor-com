@@ -10,6 +10,9 @@
             "widget_border_width": "12",
             "widget_border_style": "dashed",
             "widget_border_color": "rgba(0, 0, 0, 1)"
+        },
+        ".widget-title": {
+            "widget_title_display": "none"
         }
     }
 }
